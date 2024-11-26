@@ -1,4 +1,4 @@
-# Store-Data-Analysis-Dashboard (Elite Mart Annual Report)
+# Elite Mart(Store-Data-Analysis-Dashboard) Annual Report
 This project involves analyzing sales data from a store using Excel. The goal is to showcase my ability to clean data, perform analysis, and build interactive dashboards for business decision-making.
 ## Problem Statement
 The goal of this project is to analyze store sales data to uncover insights about sales performance, customer trends, and key performance indicators (KPIs) such as revenue, profit margins, and regional performance. This analysis aims to help store management make data-driven decisions.
